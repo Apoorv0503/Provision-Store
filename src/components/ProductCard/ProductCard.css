@@ -1,0 +1,29 @@
+.card {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: space-between;
+}
+
+.card img {
+    width: 75%;
+    height: 75%;
+    margin-top: 1rem;
+
+    object-fit: contain; /* Preserve aspect ratio while fitting the content within the specified dimensions */
+  }
+
+.card-actions {
+    width: 80%;
+    margin-bottom: 1rem;
+}
+
+.card-button {
+    text-transform: none;
+    font-weight: 600;
+}
+
+.my-img{
+    width: 400px;
+}

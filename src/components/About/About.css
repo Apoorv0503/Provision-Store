@@ -1,0 +1,22 @@
+/* StyledTextComponent.css */
+
+.paragraph {
+    margin-bottom: 16px; /* Adjust the margin as needed */
+    font-weight:bolder;
+  }
+  
+  .point {
+    margin-left: 16px; /* Adjust the margin as needed */
+    display: list-item;
+    list-style-type: disc;
+    /* font-weight: 00; */
+    margin-bottom: 16px;
+  }
+  
+.Main-container{
+    padding: 100px;
+}
+
+.my-img{
+  width: 300px;
+}
